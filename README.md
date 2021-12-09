@@ -1,7 +1,7 @@
 # pacmanFactory
 This is a game that allows you to add pacmen to the page in different locations and at different speeds that will bounce off of the edges of the page.  Pacmen can be added before and after pressing the start game button.
 
-HOW TO RUN: Snackwave esse nisi magna sunt enamel pin chambray. Keffiyeh 3 wolf moon tumblr hoodie. Laborum unicorn pork belly, copper mug YOLO sed non sunt austin hashtag nostrud. XOXO authentic subway tile edison bulb, forage asymmetrical gentrify officia swag four loko.
+HOW TO RUN: Download all associated files and run the html file in a web browser.
 
 FUTURE IMPROVEMENTS: I think it would be fun to add some different images of pacman, and maybe some ghosts.  I would like to allow that ability to change the background color, either by clicking for random changes or a dropdown menu.  I would also like to add barriers that can be added for the pacmen to bounce off of.
 
